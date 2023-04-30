@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Muimi81
+- 👋 Hi, I’m Nzangi Muimi
 - 👀 I’m interested in HTML, CSS, JavaScript, PHP, Python, GDL and Dynamo
 - 🌱 I’m currently learning Python, PHP and JavaScript
 - 📫 How to reach me: via email hello@nzangimuimi.com
