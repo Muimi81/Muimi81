@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muimi81
 - 👀 I’m interested in HTML, CSS, JavaScript, PHP, Python, GDL and Dynamo
-- 🌱 I’m currently learning CSS and JavaScript
+- 🌱 I’m currently learning Python, PHP and JavaScript
 - 📫 How to reach me: via email hello@nzangimuimi.com
 
 <!---
