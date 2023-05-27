@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nzangi Muimi
-- 👀 I’m interested in HTML, CSS, JavaScript, PHP, Python, GDL and Dynamo
+- 👀 I’m a Quantity Surveyor, BIM Creator and Educator.
 - 📫 How to reach me: via email hello@nzangimuimi.com
 
 <!---
