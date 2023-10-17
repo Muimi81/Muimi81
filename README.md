@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nzangi Muimi.
-- 👷🏽 I’m a Quantity Surveyor, Contract Management Consultant, BIM Professional, and Educator.
+- 👷🏽 I’m a Quantity Surveyor, BIM Professional, and Educator.
 - ⭐ Founder of [https://bimgoodies.com](https://bimgoodies.com), a global multi-vendor marketplace for exchanging BIM objects, software and project templates, visualization materials, add-ons, plugins, and much more.
 - 📫 How to reach me: via email hello@nzangimuimi.com.
 - ▶ More about me in this [one-minute video](https://youtu.be/sQUCCKuGcdI).
