@@ -4,6 +4,7 @@
 - 📫 How to reach me: via email hello@nzangimuimi.com.
 - ▶ More about me in this [one-minute video](https://youtu.be/sQUCCKuGcdI).
 - My Coding Stats 👇
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nzangi81&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 - [![wakatime](https://wakatime.com/badge/user/8d2c6499-4d5a-4b74-85ec-f04a6ae6b1be.svg)](https://wakatime.com/@8d2c6499-4d5a-4b74-85ec-f04a6ae6b1be)
 
 <!---
